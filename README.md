@@ -1,8 +1,8 @@
-<h1 align="left">Hey there 👋 I'm intissar?</h1>
+<h1 align="left">Hey there 👋 I'm intissar </h1>
 
 ###
 
-<p align="center">🎓 Front-End Developer & Computer Science Student</p>
+<p align="center">🎓  Frontend Developer  & UI/UX Designer </p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h5 align="left">🎓 I'm currently pursuing a degree in Computer Science<br>🌐 I specialize in Front-End Web Development<br>🚀 I enjoy designing clean, modern, and fully responsive websites using:<br>HTML, CSS, JavaScript<br>React.js, Tailwind CSS, Bootstrap, Framer Motion</h5>
+<h5 align="left">🎓 I'm a Computer Science student passionate in Data Science and Artificial intelligence <br>🌐 I specialize in Front-End Web Development and UI/UX Design <br>🚀 I enjoy designing clean, modern, and fully responsive websites using:<br>HTML, CSS, JavaScript<br>React.js, Tailwind CSS, Bootstrap, Framer Motion</h5>
 
 ###
 
