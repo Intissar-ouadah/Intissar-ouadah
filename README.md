@@ -14,7 +14,8 @@
 
 ###
 
-<h5 align="left">🎓 I'm a Computer Science student passionate in Data Science and Artificial intelligence <br>🌐 I specialize in Front-End Web Development and UI/UX Design <br>🚀 I enjoy designing clean, modern, and fully responsive websites using:<br>HTML, CSS, JavaScript<br>React.js, Tailwind CSS, Bootstrap, Framer Motion</h5>
+<h5 align="left">🎓 I'm a Computer Science student passionate in Data Science and Artificial intelligence <br>📊 I enjoy working with data and discovering patterns.<br>
+🤖 I experiment with ML/DL models to solve real problems.<br>🌐 I specialize in Front-End Web Development and UI/UX Design <br>🚀 I enjoy designing clean, modern, and fully responsive websites using:<br>HTML, CSS, JavaScript,React.js, Tailwind CSS, Bootstrap, Framer Motion </h5>
 
 ###
 
