@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🎓  Frontend Developer  & UI/UX Designer </p>
+<p align="center">🎓  Data scientist  & UI/UX Designer </p>
 
 ###
 
